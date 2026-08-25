@@ -1,0 +1,15 @@
+# Course-provided source data
+data/
+
+# Local project notes
+SPRINT 8.docx
+
+# Power BI temporary files
+*.pbit
+~$*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+Sprint 8.pdf
