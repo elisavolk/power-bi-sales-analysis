@@ -16,7 +16,7 @@ The dashboard explores:
 
 ## Key Findings
 
-Sales grew until 2022 and then stabilized in 2023–2024. The analysis does not indicate a major structural decline: average transaction value and the customer base remained relatively stable, while transaction frequency showed moderate variation.
+The apparent sales decline in 2023–2024 was largely driven by comparison with an exceptionally strong preceding period. Looking across the full five-year dataset, recent sales were closer to earlier levels rather than indicating a major structural decline. Customer numbers and average transaction value also remained relatively stable.
 
 The analysis also identified recurring seasonal patterns, differences across geographic markets and specific companies and products with notable changes in performance.
 
@@ -60,7 +60,7 @@ El dashboard analiza la evolución y estacionalidad de las ventas, transacciones
 
 ### Principales conclusiones
 
-Las ventas crecieron hasta 2022 y posteriormente se estabilizaron. El análisis no muestra una caída estructural importante: el ticket medio y la base de clientes se mantienen relativamente estables, mientras que la frecuencia de compra presenta variaciones moderadas.
+La aparente caída de ventas en 2023–2024 se explica en gran medida por la comparación con un periodo anterior excepcionalmente alto. Considerando los cinco años analizados, las ventas recientes se situaron más cerca de los niveles de años anteriores, sin indicar una caída estructural importante. El número de clientes y el ticket medio también se mantuvieron relativamente estables.
 
 También se identifican patrones estacionales recurrentes y diferencias de comportamiento entre mercados, productos y empresas.
 
